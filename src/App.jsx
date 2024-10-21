@@ -4,7 +4,6 @@ import lampadaMagica from './assets/Imagem Lâmpada mágica.png'
 import lampadaGenio from './assets/Imagem Gênio com a lâmpada.png'
 import './style.scss'
 
-
 const GlobalStyle = createGlobalStyle`
 *{
   margin: 0;
