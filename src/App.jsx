@@ -30,6 +30,7 @@ top: -50px;
 }
 @media(max-width: 480px){
   background-color: #B74794;
+  top: -80px;
 }
 
 `;
