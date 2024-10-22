@@ -29,7 +29,7 @@ O projeto está organizado da seguinte forma:
   <img src="./src/assets/mobile2.jpeg" width="20%">
 </p><br><br>
 
-* **Você pode visualizar uma versão ao vivo do site através do seguinte link: [Demonstração Gênio React](desafio-genio-do-react.vercel.app)**
+* **Você pode visualizar uma versão ao vivo do site através do seguinte link: [Demonstração Gênio React](https://desafio-genio-do-react.vercel.app)**
 
 ## Instalação e Execução
 1. **Clone o repositório:**
