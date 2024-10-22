@@ -1,4 +1,4 @@
-# Lâmpada Mágica - React e Styled Components
+# Desafio React - Gênio do React
 
 ## Descrição
 Este projeto é uma aplicação em React que utiliza **styled-components** e **SCSS** para criar uma interface interativa onde o usuário pode alternar entre duas imagens ao "esfregar" a lâmpada mágica. A aplicação exibe uma mensagem motivacional para "libertar a magia da programação".
@@ -17,10 +17,19 @@ O projeto está organizado da seguinte forma:
 - **style.scss:** Estilos globais em SCSS.
 
 ## Demonstração
-* **Esfregue a lâmpada para ver a magia!**
+* **Versão DESKTOP:**
 <div align="center">
-<img src="./assets/lampadaMagica.png" width="40%">
-</div>
+<img src="./src/assets/desktop1.jpeg" width="90%">
+<img src="./src/assets/desktop2.jpeg" width="90%">
+</div><br><br>
+
+* **Versão MOBILE:**
+<p align="center" width="100%">
+  <img src="./src/assets/mobile1.jpeg" width="20%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./src/assets/mobile2.jpeg" width="20%">
+</p><br><br>
+
+* **Você pode visualizar uma versão ao vivo do site através do seguinte link: [Demonstração Gênio React](desafio-genio-do-react.vercel.app)**
 
 ## Instalação e Execução
 1. **Clone o repositório:**
@@ -35,5 +44,3 @@ O projeto está organizado da seguinte forma:
    ```bash
    npm run dev
    ```
-
----
