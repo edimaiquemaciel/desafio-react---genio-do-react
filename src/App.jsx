@@ -24,12 +24,19 @@ cursor: pointer;
 font-size: 36px;
 position: relative;
 top: -50px;
+transition: background-color 0.3s ease-in-out;
+&:hover {
+    background-color: #0062cc; // Change background color on hover
+}
 @media (max-width: 768px){
   font-size: 30px;
 }
 @media(max-width: 480px){
   background-color: #B74794;
   top: -150px;
+  &:hover {
+    background-color: #C757A4;
+  }
 }
 
 `;
